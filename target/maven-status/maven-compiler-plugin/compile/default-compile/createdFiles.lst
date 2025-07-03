@@ -1,0 +1,8 @@
+vaveTuts\pageobject\LandingPage.class
+vaveTuts\pageobject\ProductCatalouge.class
+vaveTuts\pageobject\OrderSubmitted.class
+vaveTuts\AbstractComponents\AbstractComponents.class
+vaveTuts\pageobject\cartPageValidations.class
+vaveTuts\pageobject\OrderHistory.class
+vaveTuts\resources\ExtentReporterNG.class
+vaveTuts\pageobject\CheckoutPage.class
